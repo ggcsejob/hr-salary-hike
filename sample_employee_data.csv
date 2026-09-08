@@ -1,0 +1,25 @@
+employee_id,name,department,current_salary,performance_rating,years_at_company,last_hike_percent,training_score,actual_hike_percent
+E001,Aarav Sharma,Engineering,78000,4.7,5,10,92,14
+E002,Meera Patel,Human Resources,52000,4.2,3,8,88,10
+E003,Rohan Singh,Sales,61000,3.6,2,6,74,7
+E004,Ananya Rao,Finance,69000,4.5,6,11,90,13
+E005,Kabir Gupta,Engineering,85000,4.9,7,12,95,16
+E006,Priya Nair,Marketing,56000,3.9,4,7,80,8
+E007,Vikram Das,Operations,59000,3.4,2,5,70,6
+E008,Isha Kapoor,Engineering,74000,4.4,4,9,86,12
+E009,Neha Verma,Finance,64000,4.1,5,8,82,10
+E010,Aditya Jain,Sales,67000,4.6,3,9,91,13
+E011,Simran Kaur,Marketing,53000,3.7,2,6,76,7
+E012,Arjun Mehta,Operations,62000,4.0,6,8,83,9
+E013,Tanya Bose,Human Resources,50000,3.5,1,5,72,6
+E014,Dev Malhotra,Engineering,92000,4.8,8,13,96,17
+E015,Nisha Iyer,Finance,72000,4.3,5,9,87,11
+E016,Manav Bhatia,Sales,58000,3.8,2,6,78,8
+E017,Ritika Shah,Operations,60000,4.2,4,8,85,10
+E018,Sameer Khan,Engineering,81000,4.6,6,11,89,14
+E019,Leena Roy,Marketing,55000,3.3,1,4,68,5
+E020,Om Prakash,Finance,76000,4.7,7,12,93,15
+E021,Sana Sheikh,Human Resources,54000,4.0,3,7,81,9
+E022,Nitin Kulkarni,Sales,63000,4.4,4,8,86,12
+E023,Pooja Menon,Operations,57000,3.6,2,5,73,7
+E024,Hari Krishnan,Engineering,88000,4.5,5,10,90,13

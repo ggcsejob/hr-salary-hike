@@ -1,0 +1,20 @@
+[project]
+name = "hr-salary-hike-ai"
+version = "0.1.0"
+description = "Salary Hike App for HR"
+authors = [
+    {name = "Gaurav Gupta",email = "gg.csejob@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit (==1.35.0)",
+    "pandas (==2.2.2)",
+    "numpy (==1.26.4)",
+    "scikit-learn (==1.5.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
